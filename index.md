@@ -1,7 +1,7 @@
 ---
 ---
 
-This is a fork of the [Data Carpentry Genomics workshop](https://datacarpentry.org/genomics-workshop/) for the MMB-BioIT group of the Medical Microbiology department, UMC Utrecht [![logo MMB-BioIT](../fig/logo.png)]. Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working
+This is a fork of the [Data Carpentry Genomics workshop](https://datacarpentry.org/genomics-workshop/) for the MMB-BioIT group of the Medical Microbiology department, UMC Utrecht [![logo MMB-BioIT](/fig/logo.png)]. Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working
 with data so that they can get more done in less time, and with less pain. This workshop
 teaches data management and analysis for genomics research including: 
 best practices for organization of bioinformatics projects and data, use of command-line 
