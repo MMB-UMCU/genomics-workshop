@@ -43,13 +43,14 @@ Interested in teaching these materials? We have an [onboarding video](https://ww
 | Lesson    | Overview |
 | ------- | ---------- |
 | [Project organization and management](https://mmb-umcu.github.io/organization-genomics/) | Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
-| [Introduction to the command line](https://mmb-umcu.github.io/organization-genomics//shell-genomics/) |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
-|[Data wrangling and processing](https://mmb-umcu.github.io/wrangling-genomics/) | Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
+| [Introduction to the command line](https://mmb-umcu.github.io/shell-genomics/) |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
+| [Data wrangling and processing](https://mmb-umcu.github.io/wrangling-genomics/) | Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 
 # Optional Additional Lessons
 
 | Lesson | Overview |
 | ------- | -------- |
+| [Introduction to cloud computing for genomics](http://www.datacarpentry.org/cloud-genomics/) | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources. 
 | [Intro to R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) | Use R to analyze and visualize between-sample variation. |
 
 # Teaching Platform
