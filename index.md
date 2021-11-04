@@ -35,13 +35,13 @@ perform variant calling.
 
 # Workshop Overview 
 
-| Lesson    | Overview |
+| Time  | Lesson | Overview |
 | ------- | ---------- |
-| [Project organization and management](https://mmb-umcu.github.io/organization-genomics/) | Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
-| [Introduction to the command line](https://mmb-umcu.github.io/shell-genomics/) |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
-| [Data wrangling and processing](https://mmb-umcu.github.io/wrangling-genomics/) | Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
+| Day 1 morning | [Project organization and management](https://mmb-umcu.github.io/organization-genomics/) | Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
+| Day 1 afternoon |[Introduction to the command line](https://mmb-umcu.github.io/shell-genomics/) |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
+| Day 2 and 3 | [Data wrangling and processing](https://mmb-umcu.github.io/wrangling-genomics/) | Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 
-# Optional Additional Lessons
+# Optional Additional Lessons (day 3 and self-study)
 
 | Lesson | Overview |
 | ------- | -------- |
@@ -52,7 +52,7 @@ perform variant calling.
 | [Introduction to cloud computing for genomics](http://www.datacarpentry.org/cloud-genomics/) | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources. 
 | [Intro to R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) | Use R to analyze and visualize between-sample variation. |
 
-**Please note that workshop materials for working with Genomics data in R are in “alpha” development. These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries’ official lesson offerings.**
+Please note that workshop materials for working with Genomics data in R are in “alpha” development.
 
 # Teaching Platform
 This workshop is designed to be run on pre-imaged Amazon Web Services (AWS)
