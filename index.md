@@ -20,8 +20,6 @@ perform variant calling.
 > including the 
 > concept of genomic variation within a population. Participants should bring their own laptops and plan to participate actively. 
 > 
-> To get started, follow the directions in the [Setup](setup.html) tab to 
-> get access to the required software and data for this workshop.
 > 
 {: .prereq}
 
